@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Felipe Araújo 🖐️
 
 - 🔭 Estudando Engenharia de Software pela Unicesumar
-- 📖 Gosto de aprender e estudar
-- 😄 Pronomes: ele/dele
+- 📖 Gosto de aprender e estudar, sempre procurando aprimorar meus conhecimentos.
 
 <div>
   <a href = "mailto:felipearaujosouza22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
